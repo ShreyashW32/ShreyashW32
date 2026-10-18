@@ -22,14 +22,14 @@ University of Sydney, where I also do research on medical image analysis.
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [**MCP Matchmaker**](https://github.com/ShreyashW32/mcp-matchmaker) | Discovery platform for Model Context Protocol servers. Hybrid BM25 + vector search over what each tool can do, an 8-point security scan, dependency-aware toolchain composition and one-paste configs for Claude Desktop, Cursor and more. Pure stdlib, 81 tests. | Python · RAG/hybrid search · MCP |
 | [**AUS Backyard Intelligence**](https://github.com/ShreyashW32/aus-backyard-intelligence) | Map platform that ranks Australian homes for pool, fence and landscaping work. Combines OpenStreetMap data, YOLO pool detection on satellite imagery and state-specific compliance rules. | Python · YOLO · MapLibre · QGIS |
-| [**Fieldnotes**](https://github.com/ShreyashW32/fieldnotes) · [live](https://shreyashw32.github.io/fieldnotes/) | Offline learning studio for Python, DSA, SQL and AI, with 114 practice problems that run in the browser. | JavaScript · PWA |
 | [**EyeDentify**](https://github.com/ShreyashW32/eyedentify-blink-biometrics) | Identifies people from their eye-blink patterns using spatio-temporal time images (COTI/MITI). 99.04% accuracy on NTHU-DDD. Published at AJCAI 2025. | TensorFlow · MobileNetV2 · OpenCV |
 | [**Deepfake Detection**](https://github.com/ShreyashW32/deepfake-image-detection) | Detects AI-generated images using gradient-field PCA, PatchCraft heatmaps, spectral analysis and ViT + SVM fusion. | ViT · SVM · NumPy · Jupyter |
 | [**Crop Disease Detector**](https://github.com/ShreyashW32/crop-disease-detector) | Real-time browser camera classifier for 17 diseases across corn, potato, rice, wheat and sugarcane. | FastAPI · TFLite · Docker |
-| [**Security Quiz Portal**](https://github.com/ShreyashW32/security-quiz) · [live](https://shreyashw32.github.io/security-quiz/) | 95-question practice and mock-exam app for a security course, covering TLS, network security and more, with explanations and progress stats. | JavaScript · HTML/CSS |
+| [**Roommate Matching**](https://github.com/ShreyashW32/roommate-matching-usyd) | Matches students with compatible roommates using cosine similarity over lifestyle survey answers, respecting gender preferences. | Flask · scikit-learn · pandas |
 
-More: [Roommate matching](https://github.com/ShreyashW32/roommate-matching-usyd) ·
+More: [Multimodal emotion recognition](https://github.com/ShreyashW32/multimodal-emotion-recognition) ·
 [Medicinal plant classification](https://github.com/ShreyashW32/medicinal-plant-classification) ·
 [Symptom-based disease prediction](https://github.com/ShreyashW32/symptom-disease-prediction)
 
